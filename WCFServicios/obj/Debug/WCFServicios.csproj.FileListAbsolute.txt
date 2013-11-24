@@ -1,0 +1,5 @@
+c:\users\davis acuña\documents\visual studio 2012\Projects\WCFServicios\WCFServicios\bin\WCFServicios.dll
+c:\users\davis acuña\documents\visual studio 2012\Projects\WCFServicios\WCFServicios\bin\WCFServicios.pdb
+c:\users\davis acuña\documents\visual studio 2012\Projects\WCFServicios\WCFServicios\obj\Debug\WCFServicios.dll
+c:\users\davis acuña\documents\visual studio 2012\Projects\WCFServicios\WCFServicios\obj\Debug\WCFServicios.pdb
+C:\Users\DAVIS ACUÑA\documents\visual studio 2012\Projects\WCFServicios\WCFServicios\obj\Debug\WCFServicios.csprojResolveAssemblyReference.cache
